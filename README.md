@@ -6,6 +6,8 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 这个仓库搜集了 AIGC 相关的资源，希望能帮助大家~~搞颜色~~提高工作效率，进入 AI 时代。
 
-## 社区
+## AI 资源
 
 [<img width=20 align=center src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" /> Hugging Face](https://huggingface.co/) - AI 社区，包含大量 models、datasets 和 demo apps
+
+[Civitai](https://civitai.com/) AI 艺术创作资源的平台，可以下载或分享模型
