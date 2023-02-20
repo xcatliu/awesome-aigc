@@ -20,7 +20,7 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 [AltDiffusion-m9](https://huggingface.co/BAAI/AltDiffusion-m9) - AltDiffusion基础之上，支持9种语言的文生图模型
 
-## 在线工具
+## 商业性在线工具 - 面向无技术基础的普通用户
 
 ### AI 写作
 
@@ -43,10 +43,22 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 [<img width=20 align=center src="https://yige.baidu.com/favicon.ico" /> 文心一格](https://yige.baidu.com/) - 文生图，Baidu 出品
 
 ### AI 文字转语音
+[讯飞配音](https://peiyin.xunfei.cn/) - AI或者真人为文字配音
 
-[<img width=20 align=center src="https://azurecomcdn.azureedge.net/cvt-0816552cb2523538342bb97d03fcfcd156656728f12fb65e4960490c69a39cf8/images/icon/favicon.ico" /> 微软认知服务 - 语音转文字](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - 微软认知服务，文字转语音，可能是目前最像真人的文字转语音
 
+### AI 语音转文字
+[讯飞听见](https://www.iflyrec.com/) 科大讯飞 录音转文字 为主
 
+## 商业性在线 API - 面向开发者
+
+### AI 绘画
+[百度文心 AI 作画 - API](https://wenxin.baidu.com/ernie-vilg)  
+
+### AI 文字转语音
+
+[讯飞开放平台 - 文字转语音API](https://www.xfyun.cn/services/online_tts)  
+
+[<img width=20 align=center src="https://azurecomcdn.azureedge.net/cvt-0816552cb2523538342bb97d03fcfcd156656728f12fb65e4960490c69a39cf8/images/icon/favicon.ico" /> 微软认知服务 - 文字转语音](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - 微软认知服务，文字转语音，可能是目前最像真人的文字转语音
 
 ## 社区资源
 
