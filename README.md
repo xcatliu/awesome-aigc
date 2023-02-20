@@ -49,14 +49,24 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 ### AI 语音转文字
 [讯飞听见](https://www.iflyrec.com/) 科大讯飞 录音转文字 为主
 
-## 商业性在线 API - 面向开发者
+
+## 在线AI模型训练与试玩平台  
+
+[飞桨 AI Studio ](https://aistudio.baidu.com/)    百度旗下的在线算力平台
+
+[Google Colab](https://colab.research.google.com/)  Google 旗下的基于 Jupyter Notebook 的在线算力平台
+
+[Kaggle](https://www.kaggle.com/)  Google 旗下的在线算力平台，可分享数据集、模型等。可视为加强收费版的 Google Colab 。
+
+
+## 商业性 API - 面向开发者
 
 ### AI 绘画
 [百度文心 AI 作画 - API](https://wenxin.baidu.com/ernie-vilg)  
 
 ### AI 文字转语音
 
-[讯飞开放平台 - 文字转语音API](https://www.xfyun.cn/services/online_tts)  
+[讯飞开放平台 - 文字转语音 API](https://www.xfyun.cn/services/online_tts)  
 
 [<img width=20 align=center src="https://azurecomcdn.azureedge.net/cvt-0816552cb2523538342bb97d03fcfcd156656728f12fb65e4960490c69a39cf8/images/icon/favicon.ico" /> 微软认知服务 - 文字转语音](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - 微软认知服务，文字转语音，可能是目前最像真人的文字转语音
 
