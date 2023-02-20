@@ -42,6 +42,11 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 [<img width=20 align=center src="https://yige.baidu.com/favicon.ico" /> 文心一格](https://yige.baidu.com/) - 文生图，Baidu 出品
 
+### AI 文字转语音
+
+[<img width=20 align=center src="https://azurecomcdn.azureedge.net/cvt-0816552cb2523538342bb97d03fcfcd156656728f12fb65e4960490c69a39cf8/images/icon/favicon.ico" /> 微软认知服务 - 语音转文字](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - 微软认知服务，文字转语音，可能是目前最像真人的文字转语音
+
+
 
 ## 社区资源
 
