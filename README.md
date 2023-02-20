@@ -30,6 +30,9 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 [<img width=20 align=center src="https://openai.com/content/images/size/w256h256/2020/09/icon-1.png" /> DALL·E 2](https://openai.com/dall-e-2/) - 文生图，图生图，OpenAI 出品
 
+[<img width=20 align=center src="https://yige.baidu.com/favicon.ico" /> 文心一格](https://yige.baidu.com/) - 文生图，Baidu 出品
+
+
 ## 社区资源
 
 [<img width=20 align=center src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" /> Hugging Face](https://huggingface.co/) - AI 社区，包含大量 models、datasets 和 demo apps
