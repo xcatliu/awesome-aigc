@@ -10,6 +10,16 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio library for Stable Diffusion 的浏览器界面
 
+### 开源-辅助开发工具
+[diffusers](https://github.com/huggingface/diffusers) - HuggingFace出品的PyTorch辅助库。 
+
+[PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 内含百度修改后的ppdiffuers，以及其他百度飞桨NLP辅助工具。
+
+### 开源-文生图模型
+[AltDiffusion](https://huggingface.co/BAAI/AltDiffusion) - 首个中英双语的文生图模型 [Link 2](https://model.baai.ac.cn/model-detail/100076) [Link 3](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion)  
+
+[AltDiffusion-m9](https://huggingface.co/BAAI/AltDiffusion-m9) - AltDiffusion基础之上，支持9种语言的文生图模型
+
 ## 在线工具
 
 ### AI 写作
