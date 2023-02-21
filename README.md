@@ -40,6 +40,10 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 [<img width=20 align=center src="https://www.midjourney.com/apple-touch-icon.png" /> Midjourney](https://www.midjourney.com/showcase/recent/) - 文生图，需要在 Discord 里使用
 
+[Style2Paints](https://github.com/lllyasviel/style2paints) - 线稿上色
+
+[<img width=20 align=center src="https://www.midjourney.com/apple-touch-icon.png" /> Midjourney](https://www.midjourney.com/showcase/recent/) - 文生图，需要在 Discord 里使用
+
 [<img width=20 align=center src="https://openai.com/content/images/size/w256h256/2020/09/icon-1.png" /> DALL·E 2](https://openai.com/dall-e-2/) - 文生图，图生图，OpenAI 出品
 
 [<img width=20 align=center src="https://yige.baidu.com/favicon.ico" /> 文心一格](https://yige.baidu.com/) - 文生图，Baidu 出品
