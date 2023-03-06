@@ -30,6 +30,8 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 [<img width=20 align=center src="https://openai.com/content/images/size/w256h256/2020/09/icon-1.png" /> ChatGPT](https://openai.com/blog/chatgpt/) - AI 聊天机器人
 
+[ChatGPT 咒语库](https://newzone.top/chatgpt/cn) - ChatGPT 快捷指令
+
 [<img width=20 align=center src="https://novelai.net/icons/novelai-round.png" /> Novel AI](https://novelai.net/) - AI 创作文学作品，文生图，图生图，二次元
 
 [<img width=20 align=center src="https://storage.googleapis.com/rytr-me/public/image/logo.svg" /> Rytr](https://rytr.me/) - AI 写作助手
