@@ -10,6 +10,8 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Gradio library for Stable Diffusion 的浏览器界面
 
+[OpenPost Editor](https://github.com/fkunn1326/openpose-editor) - 骨骼图生成工具
+
 ### 辅助开发工具
 
 [diffusers](https://github.com/huggingface/diffusers) - HuggingFace 出品的 PyTorch 辅助库
