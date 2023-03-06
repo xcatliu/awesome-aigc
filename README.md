@@ -12,6 +12,8 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 [OpenPost Editor](https://github.com/fkunn1326/openpose-editor) - 骨骼图生成工具
 
+[ClickPrompt](https://github.com/prompt-engineering/click-prompt) - Prompt 生成器
+
 ### 辅助开发工具
 
 [diffusers](https://github.com/huggingface/diffusers) - HuggingFace 出品的 PyTorch 辅助库
