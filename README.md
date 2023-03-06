@@ -38,6 +38,8 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 
 [<img width=20 align=center src="https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/4ef96ad9-e4c5-4c2b-8f21-15471ec16b9a/favicon.ico" /> Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) - 文生图，图生图，写实风
 
+[vrmwebpose](https://www.vrmwebpose.app/) - 在线拖拽生成骨骼图
+
 [<img width=20 align=center src="https://www.midjourney.com/apple-touch-icon.png" /> Midjourney](https://www.midjourney.com/showcase/recent/) - 文生图，需要在 Discord 里使用
 
 [Style2Paints](https://github.com/lllyasviel/style2paints) - 线稿上色
