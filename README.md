@@ -89,3 +89,5 @@ AIGC，全称是 Artificial Intelligence Generated Content，是指由 AI 生成
 [<img width=20 align=center src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" /> Hugging Face](https://huggingface.co/) - AI 社区，包含大量 models、datasets 和 demo apps
 
 [<img width=20 align=center src="https://civitai.com/images/android-chrome-192x192.png" /> Civitai](https://civitai.com/) - AI 艺术创作资源平台，可以下载或分享模型
+
+[AI 艺术天堂](https://a2a.top/) ai 导航网站
